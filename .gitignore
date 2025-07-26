@@ -1,0 +1,6 @@
+build-linux/.env
+build-windows/.env
+build-*/*.csv
+build-*/*.json
+build-*/CMakeFiles/
+build-*/CMake*
